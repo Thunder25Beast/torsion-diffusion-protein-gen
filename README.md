@@ -44,11 +44,11 @@ The core implementation is contained in the Jupyter Notebook `iter1.ipynb`.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/Thunder25Beast/torsion-diffusion-protein.git
+    git clone https://github.com/Thunder25Beast/torsion-diffusion-protein-gen.git
     ```
 2.  Open the notebook:
     ```bash
-    jupyter notebook iter1.ipynb
+    jupyter notebook model.ipynb
     ```
 3.  Run all cells to train the model and generate new protein structures.
 
