@@ -26,7 +26,7 @@ We compared our model against a baseline Cartesian diffusion model:
 | Metric | Baseline (Cartesian) | Ours (Torsion) | Improvement |
 | :--- | :--- | :--- | :--- |
 | **Bond Accuracy** | 90.1% | **100.0%** | +9.9% |
-| **Bond Std Dev** | 0.49 � | **0.0002 �** | 99.9% decrease |
+| **Bond Std Dev** | 0.49  | **0.0002** | 99.9% decrease |
 | **Rg Error** | 70% | **18.6%** | Significant reduction |
 | **Quality Score** | 0.7 / 2.0 | **1.7 / 2.0** | +1.0 |
 
