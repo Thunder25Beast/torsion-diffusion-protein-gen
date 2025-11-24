@@ -8,7 +8,7 @@
 
 ##  Overview
 
-This project implements a **Torsion-Space Diffusion Model** for generating protein backbones. Unlike traditional approaches that diffuse in Cartesian coordinates (often leading to broken bonds), our model operates on torsion angles ($\phi, \psi, \omega$). This guarantees **perfect local geometry** (bond lengths of 3.8�) by construction.
+This project implements a **Torsion-Space Diffusion Model** for generating protein backbones. Unlike traditional approaches that diffuse in Cartesian coordinates (often leading to broken bonds), our model operates on torsion angles ($\phi, \psi, \omega$). This guarantees **perfect local geometry** (bond lengths of 3.8 A) by construction.
 
 To ensure the generated proteins fold into compact, realistic structures, we introduce a **Geometric Refinement Module** that optimizes the Radius of Gyration (Rg) while strictly preserving bond constraints.
 
