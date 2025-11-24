@@ -40,7 +40,7 @@ We compared our model against a baseline Cartesian diffusion model:
 *   NumPy
 
 ### Running the Code
-The core implementation is contained in the Jupyter Notebook `iter1.ipynb`.
+The core implementation is contained in the Jupyter Notebook `model.ipynb`.
 
 1.  Clone the repository:
     ```bash
