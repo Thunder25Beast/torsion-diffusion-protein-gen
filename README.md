@@ -1,5 +1,5 @@
 # Torsion-Space Diffusion for Protein Backbone Generation
-
+[![arXiv](https://img.shields.io/badge/arXiv-2511.19184-b31b1b.svg)](https://arxiv.org/abs/2511.19184)
 **Authors:** Adwait Shelke, Lakshaditya Singh, Divyansh Agrawal  
 **Institution:** Dept. of Mechanical Engineering, IIT Bombay  
 **Course:** EE782 - Advanced Topics in Machine Learning (Prof. Amit Sethi)
